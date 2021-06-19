@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: 931406a30077b92409561217e5406733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1266055460750163063
+    second: mon1_sprite_addon_2012_12_14_0
+  - first:
+      213: 1999779489361178438
+    second: mon1_sprite_addon_2012_12_14_1
+  - first:
+      213: 4218856601446408012
+    second: mon1_sprite_addon_2012_12_14_2
+  - first:
+      213: -6199678358516529221
+    second: mon1_sprite_addon_2012_12_14_3
+  - first:
+      213: 5116084446230471435
+    second: mon1_sprite_addon_2012_12_14_4
+  - first:
+      213: 7929751021075451739
+    second: mon1_sprite_addon_2012_12_14_5
+  - first:
+      213: -80066363666632943
+    second: mon1_sprite_addon_2012_12_14_6
+  - first:
+      213: 2156256049751379566
+    second: mon1_sprite_addon_2012_12_14_7
+  - first:
+      213: -7731062641392183755
+    second: mon1_sprite_addon_2012_12_14_8
+  - first:
+      213: 2918077705451735570
+    second: mon1_sprite_addon_2012_12_14_9
+  - first:
+      213: 6081644748365158183
+    second: mon1_sprite_addon_2012_12_14_10
+  - first:
+      213: -5129101743719149495
+    second: mon1_sprite_addon_2012_12_14_11
+  - first:
+      213: 7753363963529279963
+    second: mon1_sprite_addon_2012_12_14_12
+  - first:
+      213: 5246254858356113122
+    second: mon1_sprite_addon_2012_12_14_13
+  - first:
+      213: 4260451495458643948
+    second: mon1_sprite_addon_2012_12_14_14
+  - first:
+      213: 7054441585288595629
+    second: mon1_sprite_addon_2012_12_14_15
+  - first:
+      213: 7577558164117523207
+    second: mon1_sprite_addon_2012_12_14_16
+  - first:
+      213: 7434196454575733728
+    second: mon1_sprite_addon_2012_12_14_17
+  - first:
+      213: -7094150242957943291
+    second: mon1_sprite_addon_2012_12_14_18
+  - first:
+      213: -212906658037224122
+    second: mon1_sprite_addon_2012_12_14_19
+  - first:
+      213: -8034885465883883888
+    second: mon1_sprite_addon_2012_12_14_20
+  - first:
+      213: -570815732900148341
+    second: mon1_sprite_addon_2012_12_14_21
+  - first:
+      213: 6426343170769021079
+    second: mon1_sprite_addon_2012_12_14_22
+  - first:
+      213: 6681467001112656996
+    second: mon1_sprite_addon_2012_12_14_23
+  - first:
+      213: -1521787181715841427
+    second: mon1_sprite_addon_2012_12_14_24
+  - first:
+      213: 6230451533650464558
+    second: mon1_sprite_addon_2012_12_14_25
+  - first:
+      213: -194698241508582881
+    second: mon1_sprite_addon_2012_12_14_26
+  - first:
+      213: -7094962098117075295
+    second: mon1_sprite_addon_2012_12_14_27
+  - first:
+      213: -5253471842346564059
+    second: mon1_sprite_addon_2012_12_14_28
+  - first:
+      213: -4777672146716691736
+    second: mon1_sprite_addon_2012_12_14_29
+  - first:
+      213: 7051657326385334402
+    second: mon1_sprite_addon_2012_12_14_30
+  - first:
+      213: 1272813302018629990
+    second: mon1_sprite_addon_2012_12_14_31
+  - first:
+      213: -2060105802898407780
+    second: mon1_sprite_addon_2012_12_14_32
+  - first:
+      213: -5857245515287981148
+    second: mon1_sprite_addon_2012_12_14_33
+  - first:
+      213: 3628425212873091173
+    second: mon1_sprite_addon_2012_12_14_34
+  - first:
+      213: 1683509480035269472
+    second: mon1_sprite_addon_2012_12_14_35
+  - first:
+      213: 4597753291708377492
+    second: mon1_sprite_addon_2012_12_14_36
+  - first:
+      213: -3952322832414180484
+    second: mon1_sprite_addon_2012_12_14_37
+  - first:
+      213: -686200515728242091
+    second: mon1_sprite_addon_2012_12_14_38
+  - first:
+      213: -2174837374456969246
+    second: mon1_sprite_addon_2012_12_14_39
+  - first:
+      213: -4742069619335078786
+    second: mon1_sprite_addon_2012_12_14_40
+  - first:
+      213: 6811750775176445037
+    second: mon1_sprite_addon_2012_12_14_41
+  - first:
+      213: -2801807503185711588
+    second: mon1_sprite_addon_2012_12_14_42
+  - first:
+      213: -5723482053591507582
+    second: mon1_sprite_addon_2012_12_14_43
+  - first:
+      213: 6858783720718696110
+    second: mon1_sprite_addon_2012_12_14_44
+  - first:
+      213: -8163501931377406263
+    second: mon1_sprite_addon_2012_12_14_45
+  - first:
+      213: -7595449855601728535
+    second: mon1_sprite_addon_2012_12_14_46
+  - first:
+      213: 5962936064310279303
+    second: mon1_sprite_addon_2012_12_14_47
+  - first:
+      213: -5070226833134214597
+    second: mon1_sprite_addon_2012_12_14_48
+  - first:
+      213: -3926053720209659969
+    second: mon1_sprite_addon_2012_12_14_49
+  - first:
+      213: 1019969678004107071
+    second: mon1_sprite_addon_2012_12_14_50
+  - first:
+      213: -8940575744869549374
+    second: mon1_sprite_addon_2012_12_14_51
+  - first:
+      213: -2140465230528709126
+    second: mon1_sprite_addon_2012_12_14_52
+  - first:
+      213: 3545673255696531770
+    second: mon1_sprite_addon_2012_12_14_53
+  - first:
+      213: -3848926668912941932
+    second: mon1_sprite_addon_2012_12_14_54
+  - first:
+      213: 8560595645737205957
+    second: mon1_sprite_addon_2012_12_14_55
+  - first:
+      213: -6744943543435558309
+    second: mon1_sprite_addon_2012_12_14_56
+  - first:
+      213: -4135822684161894139
+    second: mon1_sprite_addon_2012_12_14_57
+  - first:
+      213: 926756481108023422
+    second: mon1_sprite_addon_2012_12_14_58
+  - first:
+      213: -1045047934831322275
+    second: mon1_sprite_addon_2012_12_14_59
+  - first:
+      213: 5684317594100905556
+    second: mon1_sprite_addon_2012_12_14_60
+  - first:
+      213: -8555941932337513470
+    second: mon1_sprite_addon_2012_12_14_61
+  - first:
+      213: -4674498856177287952
+    second: mon1_sprite_addon_2012_12_14_62
+  - first:
+      213: 1121206079382502966
+    second: mon1_sprite_addon_2012_12_14_63
+  - first:
+      213: -7665286846340762181
+    second: mon1_sprite_addon_2012_12_14_64
+  - first:
+      213: -1030435457217630018
+    second: mon1_sprite_addon_2012_12_14_65
+  - first:
+      213: 5190473290882541563
+    second: mon1_sprite_addon_2012_12_14_66
+  - first:
+      213: 3337680537310796047
+    second: mon1_sprite_addon_2012_12_14_67
+  - first:
+      213: 3272635521586833729
+    second: mon1_sprite_addon_2012_12_14_68
+  - first:
+      213: 6581816510538026657
+    second: mon1_sprite_addon_2012_12_14_69
+  - first:
+      213: -5059725287509621684
+    second: mon1_sprite_addon_2012_12_14_70
+  - first:
+      213: 6351250476391478432
+    second: mon1_sprite_addon_2012_12_14_71
+  - first:
+      213: 6385908644741590839
+    second: mon1_sprite_addon_2012_12_14_72
+  - first:
+      213: 8666232932197969856
+    second: mon1_sprite_addon_2012_12_14_73
+  - first:
+      213: 919378557027203733
+    second: mon1_sprite_addon_2012_12_14_74
+  - first:
+      213: -3561102973302190051
+    second: mon1_sprite_addon_2012_12_14_75
+  - first:
+      213: -4667653705010392902
+    second: mon1_sprite_addon_2012_12_14_76
+  - first:
+      213: 1048058473420814787
+    second: mon1_sprite_addon_2012_12_14_77
+  - first:
+      213: -4298475634951985434
+    second: mon1_sprite_addon_2012_12_14_78
+  - first:
+      213: -6388190738311744311
+    second: mon1_sprite_addon_2012_12_14_79
+  - first:
+      213: -3940018080525009910
+    second: mon1_sprite_addon_2012_12_14_80
+  - first:
+      213: 6448332876995248592
+    second: mon1_sprite_addon_2012_12_14_81
+  - first:
+      213: 7089480375382678102
+    second: mon1_sprite_addon_2012_12_14_82
+  - first:
+      213: 4376415997874270264
+    second: mon1_sprite_addon_2012_12_14_83
+  - first:
+      213: -7969131053622700258
+    second: mon1_sprite_addon_2012_12_14_84
+  - first:
+      213: 2491717368862430844
+    second: mon1_sprite_addon_2012_12_14_85
+  - first:
+      213: 2562936547597941501
+    second: mon1_sprite_addon_2012_12_14_86
+  - first:
+      213: 1641280534627240608
+    second: mon1_sprite_addon_2012_12_14_87
+  - first:
+      213: -632673640207251208
+    second: mon1_sprite_addon_2012_12_14_88
+  - first:
+      213: 8325506804271098129
+    second: mon1_sprite_addon_2012_12_14_89
+  - first:
+      213: 4728645181124772433
+    second: mon1_sprite_addon_2012_12_14_90
+  - first:
+      213: -7130107700364707850
+    second: mon1_sprite_addon_2012_12_14_91
+  - first:
+      213: -7155872475359079771
+    second: mon1_sprite_addon_2012_12_14_92
+  - first:
+      213: 2218030520782257477
+    second: mon1_sprite_addon_2012_12_14_93
+  - first:
+      213: -5383978250335395349
+    second: mon1_sprite_addon_2012_12_14_94
+  - first:
+      213: 1104324506650525621
+    second: mon1_sprite_addon_2012_12_14_95
+  - first:
+      213: 7012910731272995433
+    second: mon1_sprite_addon_2012_12_14_96
+  - first:
+      213: -2849210671378866456
+    second: mon1_sprite_addon_2012_12_14_97
+  - first:
+      213: 2528036799815063577
+    second: mon1_sprite_addon_2012_12_14_98
+  - first:
+      213: -3657224193016255091
+    second: mon1_sprite_addon_2012_12_14_99
+  - first:
+      213: -3378648199126512709
+    second: mon1_sprite_addon_2012_12_14_100
+  - first:
+      213: -3628112039554674443
+    second: mon1_sprite_addon_2012_12_14_101
+  - first:
+      213: 5680460440974298288
+    second: mon1_sprite_addon_2012_12_14_102
+  - first:
+      213: -3135296309451291249
+    second: mon1_sprite_addon_2012_12_14_103
+  - first:
+      213: 4204234611275920341
+    second: mon1_sprite_addon_2012_12_14_104
+  - first:
+      213: -7095174620614498500
+    second: mon1_sprite_addon_2012_12_14_105
+  - first:
+      213: 6975222525281092596
+    second: mon1_sprite_addon_2012_12_14_106
+  - first:
+      213: -5402077659200729651
+    second: mon1_sprite_addon_2012_12_14_107
+  - first:
+      213: -6057383439479447445
+    second: mon1_sprite_addon_2012_12_14_108
+  - first:
+      213: -2485475526418580816
+    second: mon1_sprite_addon_2012_12_14_109
+  - first:
+      213: 4132203015031610582
+    second: mon1_sprite_addon_2012_12_14_110
+  - first:
+      213: -540557030528659336
+    second: mon1_sprite_addon_2012_12_14_111
+  - first:
+      213: 2326976031872233100
+    second: mon1_sprite_addon_2012_12_14_112
+  - first:
+      213: 6940652374344496358
+    second: mon1_sprite_addon_2012_12_14_113
+  - first:
+      213: -5778051181277198072
+    second: mon1_sprite_addon_2012_12_14_114
+  - first:
+      213: -4335194819146149393
+    second: mon1_sprite_addon_2012_12_14_115
+  - first:
+      213: 2183576888882582
+    second: mon1_sprite_addon_2012_12_14_116
+  - first:
+      213: -1201181159761676143
+    second: mon1_sprite_addon_2012_12_14_117
+  - first:
+      213: -7063287095855821417
+    second: mon1_sprite_addon_2012_12_14_118
+  - first:
+      213: -5309627709831089865
+    second: mon1_sprite_addon_2012_12_14_119
+  - first:
+      213: -8403243046299618056
+    second: mon1_sprite_addon_2012_12_14_120
+  - first:
+      213: -4200766642751669356
+    second: mon1_sprite_addon_2012_12_14_121
+  - first:
+      213: 7729690201956470990
+    second: mon1_sprite_addon_2012_12_14_122
+  - first:
+      213: 1272855634123183087
+    second: mon1_sprite_addon_2012_12_14_123
+  - first:
+      213: -2469030665204981715
+    second: mon1_sprite_addon_2012_12_14_124
+  - first:
+      213: 4393005289982008445
+    second: mon1_sprite_addon_2012_12_14_125
+  - first:
+      213: -8552458534156509469
+    second: mon1_sprite_addon_2012_12_14_126
+  - first:
+      213: 8655032516576966631
+    second: mon1_sprite_addon_2012_12_14_127
+  - first:
+      213: -3360949425683402812
+    second: mon1_sprite_addon_2012_12_14_128
+  - first:
+      213: 191155563655328171
+    second: mon1_sprite_addon_2012_12_14_129
+  - first:
+      213: -6171848792668412722
+    second: mon1_sprite_addon_2012_12_14_130
+  - first:
+      213: -4673898390102302605
+    second: mon1_sprite_addon_2012_12_14_131
+  - first:
+      213: 4998862455449969145
+    second: mon1_sprite_addon_2012_12_14_132
+  - first:
+      213: 1324244719290698381
+    second: mon1_sprite_addon_2012_12_14_133
+  - first:
+      213: 1822940365290523656
+    second: mon1_sprite_addon_2012_12_14_134
+  - first:
+      213: -1972705582173198278
+    second: mon1_sprite_addon_2012_12_14_135
+  - first:
+      213: 1068847028567069280
+    second: mon1_sprite_addon_2012_12_14_136
+  - first:
+      213: 7246678312316978658
+    second: mon1_sprite_addon_2012_12_14_137
+  - first:
+      213: 2522507805936069834
+    second: mon1_sprite_addon_2012_12_14_138
+  - first:
+      213: -8027243392979866063
+    second: mon1_sprite_addon_2012_12_14_139
+  - first:
+      213: -8145797599948374485
+    second: mon1_sprite_addon_2012_12_14_140
+  - first:
+      213: 8659366173799665587
+    second: mon1_sprite_addon_2012_12_14_141
+  - first:
+      213: -948095717446448572
+    second: mon1_sprite_addon_2012_12_14_142
+  - first:
+      213: 4511431482942292781
+    second: mon1_sprite_addon_2012_12_14_143
+  - first:
+      213: -5632892732681551114
+    second: mon1_sprite_addon_2012_12_14_144
+  - first:
+      213: -8487930526043874071
+    second: mon1_sprite_addon_2012_12_14_145
+  - first:
+      213: -1114782473072250092
+    second: mon1_sprite_addon_2012_12_14_146
+  - first:
+      213: -8565279803703972761
+    second: mon1_sprite_addon_2012_12_14_147
+  - first:
+      213: -7116539388484714615
+    second: mon1_sprite_addon_2012_12_14_148
+  - first:
+      213: -2089103552507649318
+    second: mon1_sprite_addon_2012_12_14_149
+  - first:
+      213: -648665893548271084
+    second: mon1_sprite_addon_2012_12_14_150
+  - first:
+      213: -6509176473987952963
+    second: mon1_sprite_addon_2012_12_14_151
+  - first:
+      213: -1374664240355322561
+    second: mon1_sprite_addon_2012_12_14_152
+  - first:
+      213: -4852489914499294393
+    second: mon1_sprite_addon_2012_12_14_153
+  - first:
+      213: -6626118778472813564
+    second: mon1_sprite_addon_2012_12_14_154
+  - first:
+      213: -2194976887175748827
+    second: mon1_sprite_addon_2012_12_14_155
+  - first:
+      213: 1180393359195255114
+    second: mon1_sprite_addon_2012_12_14_156
+  - first:
+      213: 4028285988434110106
+    second: mon1_sprite_addon_2012_12_14_157
+  - first:
+      213: 8250728145484857258
+    second: mon1_sprite_addon_2012_12_14_158
+  - first:
+      213: -6547690825563212146
+    second: mon1_sprite_addon_2012_12_14_159
+  - first:
+      213: 6733320444135167116
+    second: mon1_sprite_addon_2012_12_14_160
+  - first:
+      213: -8202675995029910891
+    second: mon1_sprite_addon_2012_12_14_161
+  - first:
+      213: -3012038789022951427
+    second: mon1_sprite_addon_2012_12_14_162
+  - first:
+      213: -2433477144408775457
+    second: mon1_sprite_addon_2012_12_14_163
+  - first:
+      213: -5197302008293355091
+    second: mon1_sprite_addon_2012_12_14_164
+  - first:
+      213: 8998119416719659659
+    second: mon1_sprite_addon_2012_12_14_165
+  - first:
+      213: -980250494118695164
+    second: mon1_sprite_addon_2012_12_14_166
+  - first:
+      213: -2599696420575291968
+    second: mon1_sprite_addon_2012_12_14_167
+  - first:
+      213: 7564340457882364350
+    second: mon1_sprite_addon_2012_12_14_168
+  - first:
+      213: 7371207219908998744
+    second: mon1_sprite_addon_2012_12_14_169
+  - first:
+      213: -1652193007848592826
+    second: mon1_sprite_addon_2012_12_14_170
+  - first:
+      213: -3445178581331529927
+    second: mon1_sprite_addon_2012_12_14_171
+  - first:
+      213: -2623763823331716552
+    second: mon1_sprite_addon_2012_12_14_172
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 458
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830b0c24411e6ee0800000000000000
+      internalID: -1266055460750163063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 458
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2c7ca9d4a0cb10800000000000000
+      internalID: 1999779489361178438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 458
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f568ff9b36c8a30800000000000000
+      internalID: 4218856601446408012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 458
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb702f6516156f9a0800000000000000
+      internalID: -6199678358516529221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 470
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e77a92bbfff640800000000000000
+      internalID: 5116084446230471435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 470
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4e704a822c0e60800000000000000
+      internalID: 7929751021075451739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 471
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6133011c83eef0800000000000000
+      internalID: -80066363666632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 471
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec732f37f8ced10800000000000000
+      internalID: 2156256049751379566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 471
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53696831d7fb5b490800000000000000
+      internalID: -7731062641392183755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 470
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a007466381f7820800000000000000
+      internalID: 2918077705451735570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 394
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727dc6c3da7566450800000000000000
+      internalID: 6081644748365158183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 394
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94098c4a325c1d8b0800000000000000
+      internalID: -5129101743719149495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 394
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd93a7c127b799b60800000000000000
+      internalID: 7753363963529279963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 397
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eebb717ff07ec840800000000000000
+      internalID: 5246254858356113122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 394
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1891ff0a202b30800000000000000
+      internalID: 4260451495458643948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 413
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8cedbee3966e160800000000000000
+      internalID: 7054441585288595629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 414
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b061da005e82960800000000000000
+      internalID: 7577558164117523207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 414
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb747199429b2760800000000000000
+      internalID: 7434196454575733728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 413
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9d31c0f38c8d90800000000000000
+      internalID: -7094150242957943291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 414
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2065c58a9b0df0800000000000000
+      internalID: -212906658037224122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 414
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ca0b4d3a5e7090800000000000000
+      internalID: -8034885465883883888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 414
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b48408d1e0418f0800000000000000
+      internalID: -570815732900148341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 413
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e17ac015fe2950800000000000000
+      internalID: 6426343170769021079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 330
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c70db66d659bc50800000000000000
+      internalID: 6681467001112656996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e951afe9681eae0800000000000000
+      internalID: -1521787181715841427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f0685d8a2077650800000000000000
+      internalID: 6230451533650464558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 330
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1adc7c1bfa4c4df0800000000000000
+      internalID: -194698241508582881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 330
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1fdeff81a98d90800000000000000
+      internalID: -7094962098117075295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268a67813be717b0800000000000000
+      internalID: -5253471842346564059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 346
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27ca9ee7c42bdb0800000000000000
+      internalID: -4777672146716691736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 347
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888af02af48cd160800000000000000
+      internalID: 7051657326385334402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661663c54f0f9a110800000000000000
+      internalID: 1272813302018629990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 347
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef48aefa80963e0800000000000000
+      internalID: -2060105802898407780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 346
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39203ac32e6bea0800000000000000
+      internalID: -5857245515287981148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 266
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682f53c181ca5230800000000000000
+      internalID: 3628425212873091173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 266
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3185d3f60d5710800000000000000
+      internalID: 1683509480035269472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 266
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499292542408ecf30800000000000000
+      internalID: 4597753291708377492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b794003578629c0800000000000000
+      internalID: -3952322832414180484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a045f34402a76f0800000000000000
+      internalID: -686200515728242091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 265
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7cf334eec61d1e0800000000000000
+      internalID: -2174837374456969246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 275
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c32e46d33388e50800000000000000
+      internalID: 6811750775176445037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dda55856b1290b0800000000000000
+      internalID: -5723482053591507582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae7ba0647b4f2f50800000000000000
+      internalID: 6858783720718696110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec809de3a65be80800000000000000
+      internalID: -8163501931377406263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32197499a879690800000000000000
+      internalID: -7595449855601728535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c749be1ca90c250800000000000000
+      internalID: 5962936064310279303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32a168fe8fe2a9b0800000000000000
+      internalID: -5070226833134214597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76dcd41fad389c0800000000000000
+      internalID: -3926053720209659969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ba13a409a72e00800000000000000
+      internalID: 1019969678004107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab39faab1bce380800000000000000
+      internalID: -8940575744869549374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf248a63a8b42e0800000000000000
+      internalID: -2140465230528709126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31056f4a03c43130800000000000000
+      internalID: 3545673255696531770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 222
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494aaec469dd59ac0800000000000000
+      internalID: -3848926668912941932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c00ce142685dc670800000000000000
+      internalID: 8560595645737205957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52857f55952562a0800000000000000
+      internalID: -6744943543435558309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50917886e2b9a96c0800000000000000
+      internalID: -4135822684161894139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_58
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781cb10c108cdc00800000000000000
+      internalID: 926756481108023422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 223
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9f1fa07e3f71f0800000000000000
+      internalID: -1045047934831322275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45633ea2cb0c2ee40800000000000000
+      internalID: 5684317594100905556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c3724d420334980800000000000000
+      internalID: -8555941932337513470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc359e8e08d02fb0800000000000000
+      internalID: -4674498856177287952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e3a912df25f8f00800000000000000
+      internalID: 1121206079382502966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57266c93e6f9590800000000000000
+      internalID: -7665286846340762181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb07390496823b1f0800000000000000
+      internalID: -1030435457217630018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e43f25f3480840800000000000000
+      internalID: 5190473290882541563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091520d3c2d15e20800000000000000
+      internalID: 3337680537310796047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149228feaacba6d20800000000000000
+      internalID: 3272635521586833729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae8b6f8e3f475b50800000000000000
+      internalID: 6581816510538026657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 138
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448de898ae38c9b0800000000000000
+      internalID: -5059725287509621684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 138
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a438dc68ac242850800000000000000
+      internalID: 6351250476391478432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 138
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f2be1141e4f9850800000000000000
+      internalID: 6385908644741590839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa378afe4a44870800000000000000
+      internalID: 8666232932197969856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ab7b13de942cc00800000000000000
+      internalID: 919378557027203733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 141
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d105cbb96bb649ec0800000000000000
+      internalID: -3561102973302190051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_76
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d1528fa9293fb0800000000000000
+      internalID: -4667653705010392902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 138
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f514f0a37b8e00800000000000000
+      internalID: 1048058473420814787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e30f2f2fb854c0800000000000000
+      internalID: -4298475634951985434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fc7d9e569857a0800000000000000
+      internalID: -6388190738311744311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb0bd4e6e3259c0800000000000000
+      internalID: -3940018080525009910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d146ce36941d7950800000000000000
+      internalID: 6448332876995248592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a99c8f6d4e26260800000000000000
+      internalID: 7089480375382678102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f1aea9272cbc30800000000000000
+      internalID: 4376415997874270264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d84c6785f76190800000000000000
+      internalID: -7969131053622700258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7657bbcebb549220800000000000000
+      internalID: 2491717368862430844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf0750631619320800000000000000
+      internalID: 2562936547597941501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_87
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 96
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa483b43fff6c610800000000000000
+      internalID: 1641280534627240608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f881b02daa4837f0800000000000000
+      internalID: -632673640207251208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192dabf3542a8370800000000000000
+      internalID: 8325506804271098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520ec12db58f9140800000000000000
+      internalID: 4728645181124772433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7fb7dc2d4cc0d90800000000000000
+      internalID: -7130107700364707850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21a38a5eb31bc90800000000000000
+      internalID: -7155872475359079771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_93
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d733cc10708ce10800000000000000
+      internalID: 2218030520782257477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_94
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1645e8e444845b0800000000000000
+      internalID: -5383978250335395349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb9afa949535f00800000000000000
+      internalID: 1104324506650525621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_96
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624d03772dd25160800000000000000
+      internalID: 7012910731272995433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 95
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed53a7df19578d0800000000000000
+      internalID: -2849210671378866456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 96
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91897184314651320800000000000000
+      internalID: 2528036799815063577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_99
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 96
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2d4729fdee3dc0800000000000000
+      internalID: -3657224193016255091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_100
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0d0e1d51ac11d0800000000000000
+      internalID: -3378648199126512709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon1_sprite_addon_2012_12_14_101
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 96
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09605925b56adc0800000000000000
+      internalID: -3628112039554674443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - RoadLock
+  - Ball
+  - Title
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FloatingPoints
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 800971405
+    locked: 0
+  - name: Collision
+    uniqueID: 3991320163
+    locked: 0
+  - name: Items
+    uniqueID: 2158737895
+    locked: 0
+  - name: Monster
+    uniqueID: 569966137
+    locked: 0
+  - name: Player
+    uniqueID: 3118941027
+    locked: 0
